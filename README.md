@@ -4,6 +4,8 @@ learning frontend and concepts of api, from [https://www.youtube.com/watch?v=HcO
 
 A simple web app that allows users to convert currencies in real-time using the [ExchangeRate API](https://www.exchangerate-api.com/). Built with HTML, CSS, and JavaScript.
 
+## 📁 Project Structure
+
 ├── index.html # Main HTML page
 ├── cc_styles.css # Stylesheet
 ├── cc_app.js # Main application logic
