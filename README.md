@@ -6,9 +6,9 @@ A simple web app that allows users to convert currencies in real-time using the 
 
 ## 📁 Project Structure
 
-├── index.html # Main HTML page
-├── cc_styles.css # Stylesheet
-├── cc_app.js # Main application logic
-├── codes.js # Currency and country code mapping
+cc_index.html # Main HTML page
+cc_styles.css # Stylesheet
+cc_app.js # Main application logic
+codes.js # Currency and country code mapping
 
 ![Screenshot](s1.png) 
